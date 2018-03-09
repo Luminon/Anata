@@ -103,7 +103,6 @@ ul>ul {
 }
 
 code {
-    
     font-family: "Roboto Mono","NanumGothic", sans-serif;
     font-weight: bold;
     color: #727272;
@@ -113,6 +112,13 @@ code {
     
     padding-left: 2px;
     padding-right: 2px;
+    
+    /*
+	text overflow issue solve
+	author @antiweb
+    */
+    white-space: pre-wrap;
+    word-break: break-all;
 }
 
 .link {

@@ -1,6 +1,6 @@
 # Anata
 
-![image](./Document-Resources/Readme/identity.svg)
+![image](./Document-Resources/Readme/identity.png)
 
 > Subeteo Anatani.
 

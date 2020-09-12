@@ -1,6 +1,6 @@
-# Anata
-
 ![image](./Document-Resources/Readme/identity.png)
+
+# Anata
 
 > Subeteo Anatani.
 
@@ -10,6 +10,9 @@
 
 ## Index
 
+### Principle
+- [About Anata](./Principle/About-Anata.md)
+
 ### Design Language
 - [Colors](./Design-Language/Colors.md)
 - [Typography](./Design-Language/Typography.md)
@@ -17,3 +20,10 @@
 
 ### Components
 - [App Bar](./Component/App-Bar.md)
+
+## Information
+
+### Licenses
+- Anata는 `MIT 허가서`를 따릅니다. [이곳](LICENSE)에서 라이선스 전문을 확인할 수 있습니다.
+
+- Anata follows `MIT License`. You can check license document [here](LICENSE).
